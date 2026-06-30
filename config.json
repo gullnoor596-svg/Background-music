@@ -1,0 +1,9 @@
+{
+  "default_music": "https://github.com/gullnoor596-svg/Background-music/raw/refs/heads/main/LET%20THE%20WORLD%20BURN.mp3",
+  "loop": true,
+  "playlist": [
+    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/music1.mp3",
+    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/music2.mp3",
+    "https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/music3.mp3"
+  ]
+}
